@@ -11,12 +11,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val toolbar=findViewById<View>(R.id.toolbar) as Toolbar
+        val toolbar = findViewById<View>(R.id.toolbar2) as Toolbar
         setSupportActionBar(toolbar)
     }
-    override fun onCreateOptionsMenu(menu:Menu?):Boolean{
-        val inflater=menuInflater
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        val inflater = menuInflater
         inflater.inflate(R.menu.menu_principal, menu)
+        val frutas = resources.getStringArray(R.array.frutas)
         return true
     }
 }
