@@ -3,9 +3,12 @@ package com.example.miaplicacion
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
+import androidx.appcompat.widget.Toolbar
 import java.lang.Exception
 
 class CalculatorActivity : AppCompatActivity() {
@@ -17,6 +20,36 @@ class CalculatorActivity : AppCompatActivity() {
         setContentView(R.layout.activity_calculator)
 
         tvRes = findViewById(R.id.tvres)
+
+        val toolbar: Toolbar = findViewById(R.id.toolbar)
+        setSupportActionBar(toolbar)
+
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.main_menu, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.menu_inicio -> {
+                val intent = Intent(this, MainActivity::class.java)
+                startActivity(intent)
+                return true
+            }
+            R.id.menu_calculadora -> {
+                val intent = Intent(this, CalculatorActivity::class.java)
+                startActivity(intent)
+                return true
+            }
+            R.id.menu_tresraya -> {
+                val intent = Intent(this, TresRayaActivity::class.java)
+                startActivity(intent)
+                return true
+            }
+            else -> return super.onOptionsItemSelected(item)
+        }
     }
 
     fun calcular(view : View){

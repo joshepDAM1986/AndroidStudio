@@ -4,13 +4,17 @@ import android.content.Intent
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.view.View
 import android.view.View.OnClickListener
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
+import androidx.appcompat.widget.Toolbar
 
 class TresRayaActivity : AppCompatActivity(), OnClickListener{
+
     override fun onClick(v: View?) {
         btnSeleccionado(v as Button)
     }
@@ -36,6 +40,8 @@ class TresRayaActivity : AppCompatActivity(), OnClickListener{
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_tres_raya)
         txtResult=findViewById((R.id.txtResult))
+        val toolbar: Toolbar = findViewById(R.id.toolbar)
+        setSupportActionBar(toolbar)
 
         for(i in 1..totalCeldas){
             var button=findViewById<Button>(resources.getIdentifier("btn$i","id",packageName)
@@ -44,6 +50,35 @@ class TresRayaActivity : AppCompatActivity(), OnClickListener{
             btns[i-1]=button
         }
     }
+
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.main_menu, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.menu_inicio -> {
+                val intent = Intent(this, MainActivity::class.java)
+                startActivity(intent)
+                return true
+            }
+            R.id.menu_calculadora -> {
+                val intent = Intent(this, CalculatorActivity::class.java)
+                startActivity(intent)
+                return true
+            }
+            R.id.menu_tresraya -> {
+                val intent = Intent(this, TresRayaActivity::class.java)
+                startActivity(intent)
+                return true
+            }
+            else -> return super.onOptionsItemSelected(item)
+        }
+    }
+
+
     private fun btnSeleccionado(button: Button){
         var index=0
         when(button.id){
