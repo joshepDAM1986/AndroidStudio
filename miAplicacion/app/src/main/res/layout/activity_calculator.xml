@@ -259,7 +259,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:backgroundTint="#E16A00"
+                android:backgroundTint="#D13C22"
                 android:onClick="calcular"
                 android:text="="
                 android:textSize="24sp"
