@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.BatallaApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:colorPrimaryDark">@color/dark_blue</item>
+    </style>
+
+    <style name="Theme.BatallaApp" parent="Base.Theme.BatallaApp" />
+</resources>

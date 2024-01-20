@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomToolbarTheme" parent="ThemeOverlay.Material3.ActionBar">
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorControlNormal">@color/dark_text_primary</item>
+    </style>
+
+    <!-- Estilo de botón modo normal -->
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/dark_blue</item>
+
+    </style>
+
+    <!-- Estilo de botón modo oscuro -->
+    <style name="ButtonStyle.Dark" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:backgroundTint">@color/dark_primary_dark</item>
+    </style>
+</resources>

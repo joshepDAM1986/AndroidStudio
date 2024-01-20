@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity_Asteroides">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="20dp"
+        android:text="ASTEROIDES"
+        android:textAlignment="center"
+        android:textColor="#804C4C4C"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:minHeight="1dip"
+        android:text="JUGAR"
+        android:textColor="#000000"
+        app:backgroundTint="#5BB1B1B1"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:minHeight="1dip"
+        android:text="CONFIGURAR"
+        android:textColor="#000000"
+        app:backgroundTint="#5BB1B1B1"
+        app:cornerRadius="0dp" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:minHeight="1dip"
+        android:text="ACERCA DE"
+        android:textColor="#000000"
+        app:backgroundTint="#5BB1B1B1"
+        app:cornerRadius="0dp" />
+
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:minHeight="1dip"
+        android:text="SALIR"
+        android:textColor="#000000"
+        app:backgroundTint="#5BB1B1B1"
+        app:cornerRadius="0dp" />
+
+</LinearLayout>

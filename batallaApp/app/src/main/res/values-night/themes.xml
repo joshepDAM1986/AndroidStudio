@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.BatallaApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Personalización del modo oscuro -->
+        <item name="android:colorPrimary">@color/dark_primary</item>
+        <item name="android:colorPrimaryDark">@color/dark_blue</item>
+        <item name="android:colorAccent">@color/dark_accent</item>
+
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:textColorPrimary">@color/dark_text_primary</item>
+        <item name="android:textColorSecondary">@color/dark_text_secondary</item>
+
+        <!-- Personalización del Toolbar -->
+        <item name="toolbarStyle">@style/CustomToolbar</item>
+
+    </style>
+
+    <!-- Estilo personalizado para el Toolbar -->
+    <style name="CustomToolbar" parent="@style/Widget.Material3.Toolbar">
+        <item name="android:background">@color/dark_primary_dark</item>
+        <item name="android:titleTextColor">@color/dark_text_primary</item>
+    </style>
+
+    <!-- Estilo para el modo oscuro -->
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <item name="android:background">@color/darkBackground</item>
+        <item name="android:textColor">@color/white</item> <!-- Cambia este color según tus preferencias -->
+    </style>
+
+    <!-- Colores personalizados -->
+    <color name="dark_primary">#6200EA</color>
+    <color name="dark_primary_dark">#3700B3</color>
+    <color name="dark_accent">#03DAC5</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#BB86FC</color>
+    <color name="darkBackground">#333333</color>
+    <color name="dark_blue">#0621AC</color>
+</resources>

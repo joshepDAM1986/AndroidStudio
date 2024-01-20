@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="categories">
+        <item>Granada</item>
+        <item>Moda</item>
+        <item>Ciencia</item>
+        <item>Cine</item>
+        <item>Tecnología</item>
+        <item>Música</item>
+    </string-array>
+</resources>
