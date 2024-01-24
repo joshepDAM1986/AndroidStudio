@@ -1,0 +1,2528 @@
+{
+  "name": "i_phone_14_15_pro_max_1_default",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "7bSyb3inREjI8ZKuqEE1PJ",
+    "node": "63:2",
+    "version": "5006022149",
+    "component-id": "e8bceb4998fb595f2396e1da1bea35fc84a1d9b2"
+  },
+  "default": "iPhone 14 & 15 Pro Max - 1/Default",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 5"
+      },
+      {
+        "type": "image",
+        "id": "image 23"
+      },
+      {
+        "type": "text",
+        "id": "10:30"
+      },
+      {
+        "type": "text",
+        "id": "Manzano’s Newspaper"
+      },
+      {
+        "type": "image",
+        "id": "image 1"
+      },
+      {
+        "type": "image",
+        "id": "image 2"
+      },
+      {
+        "type": "image",
+        "id": "image 3"
+      },
+      {
+        "type": "image",
+        "id": "image 4"
+      },
+      {
+        "type": "text",
+        "id": "Popular"
+      },
+      {
+        "type": "image",
+        "id": "image 12"
+      },
+      {
+        "type": "text",
+        "id": "Mundo"
+      },
+      {
+        "type": "text",
+        "id": "Politica"
+      },
+      {
+        "type": "text",
+        "id": "Empresas"
+      },
+      {
+        "type": "text",
+        "id": "Tecnología"
+      },
+      {
+        "type": "image",
+        "id": "image 17"
+      },
+      {
+        "type": "image",
+        "id": "image 20"
+      },
+      {
+        "type": "image",
+        "id": "image 21"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4"
+      },
+      {
+        "type": "text",
+        "id": "Busca tu noticia favorita"
+      },
+      {
+        "type": "image",
+        "id": "image 22"
+      },
+      {
+        "type": "image",
+        "id": "image 24"
+      },
+      {
+        "type": "image",
+        "id": "image 25"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 6"
+      },
+      {
+        "type": "text",
+        "id": "Mundo1"
+      },
+      {
+        "type": "image",
+        "id": "image 19"
+      },
+      {
+        "type": "text",
+        "id": "256K"
+      },
+      {
+        "type": "image",
+        "id": "image 18"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM1"
+      },
+      {
+        "type": "image",
+        "id": "Marihuana-Pulianas-01-746x419 2"
+      },
+      {
+        "type": "image",
+        "id": "image 26"
+      },
+      {
+        "type": "text",
+        "id": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 9"
+      },
+      {
+        "type": "text",
+        "id": "Popular1"
+      },
+      {
+        "type": "image",
+        "id": "image 32"
+      },
+      {
+        "type": "text",
+        "id": "256K1"
+      },
+      {
+        "type": "image",
+        "id": "image 33"
+      },
+      {
+        "type": "text",
+        "id": "11 Diciembre, 12:30 PM"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM2"
+      },
+      {
+        "type": "image",
+        "id": "Marihuana-Pulianas-01-746x419 5"
+      },
+      {
+        "type": "image",
+        "id": "image 34"
+      },
+      {
+        "type": "text",
+        "id": "Muere un alpinista al caer desde 70 metros de altura en Granada. Un hombre de 52 años y vecino de Málaga ha muerto este domingo mientras practicaba alpinismo en la localidad granadina de Dílar."
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 10"
+      },
+      {
+        "type": "text",
+        "id": "Empresas1"
+      },
+      {
+        "type": "image",
+        "id": "image 35"
+      },
+      {
+        "type": "text",
+        "id": "1M"
+      },
+      {
+        "type": "image",
+        "id": "image 36"
+      },
+      {
+        "type": "text",
+        "id": "26 Octubre, 16:23 PM"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM3"
+      },
+      {
+        "type": "image",
+        "id": "Marihuana-Pulianas-01-746x419 6"
+      },
+      {
+        "type": "image",
+        "id": "image 37"
+      },
+      {
+        "type": "text",
+        "id": "El Rey destaca en Granada el papel clave del liderazgo empresarial en un escenario de \"incertidumbre global\" El rey Felipe VI se ha referido este jueves, durante la clausura del XXII Congreso de Directivos CEDE que se ha celebrado en Granada."
+      },
+      {
+        "type": "image",
+        "id": "image 27"
+      },
+      {
+        "type": "text",
+        "id": "256K2"
+      },
+      {
+        "type": "image",
+        "id": "image 28"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM4"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM5"
+      },
+      {
+        "type": "image",
+        "id": "Marihuana-Pulianas-01-746x419 3"
+      },
+      {
+        "type": "image",
+        "id": "image 29"
+      },
+      {
+        "type": "text",
+        "id": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana La Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo."
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 8"
+      },
+      {
+        "type": "text",
+        "id": "Popular2"
+      },
+      {
+        "type": "image",
+        "id": "image 30"
+      },
+      {
+        "type": "text",
+        "id": "300K"
+      },
+      {
+        "type": "image",
+        "id": "image 31"
+      },
+      {
+        "type": "text",
+        "id": "10 Diciembre, 21:30 PM"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM6"
+      },
+      {
+        "type": "image",
+        "id": "Marihuana-Pulianas-01-746x419 4"
+      },
+      {
+        "type": "image",
+        "id": "image 38"
+      },
+      {
+        "type": "text",
+        "id": "Muere un aficionado tras sufrir un paro cardíaco durante el partido entre Granada y Athletic, que ha sido suspendido. El espectador, de unos 70 años, fue atendido tras convulsionar, pero no pudo hacerse nada por salvar su vida."
+      }
+    ],
+    "modes": {
+      "iPhone 14 & 15 Pro Max - 1/Default": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 5",
+              "image 23",
+              "10:30",
+              "Manzano’s Newspaper",
+              "image 1",
+              "image 2",
+              "image 3",
+              "image 4",
+              "Popular",
+              "image 12",
+              "Mundo",
+              "Politica",
+              "Empresas",
+              "Tecnología",
+              "image 17",
+              "image 20",
+              "image 21",
+              "Rectangle 4",
+              "Busca tu noticia favorita",
+              "image 22",
+              "image 24",
+              "image 25",
+              "Rectangle 6",
+              "Mundo1",
+              "image 19",
+              "256K",
+              "image 18",
+              "24 Agosto, 10:22 PM",
+              "24 Agosto, 10:22 PM1",
+              "Marihuana-Pulianas-01-746x419 2",
+              "image 26",
+              "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana",
+              "Rectangle 9",
+              "Popular1",
+              "image 32",
+              "256K1",
+              "image 33",
+              "11 Diciembre, 12:30 PM",
+              "24 Agosto, 10:22 PM2",
+              "Marihuana-Pulianas-01-746x419 5",
+              "image 34",
+              "Muere un alpinista al caer desde 70 metros de altura en Granada. Un hombre de 52 años y vecino de Málaga ha muerto este domingo mientras practicaba alpinismo en la localidad granadina de Dílar.",
+              "Rectangle 10",
+              "Empresas1",
+              "image 35",
+              "1M",
+              "image 36",
+              "26 Octubre, 16:23 PM",
+              "24 Agosto, 10:22 PM3",
+              "Marihuana-Pulianas-01-746x419 6",
+              "image 37",
+              "El Rey destaca en Granada el papel clave del liderazgo empresarial en un escenario de \"incertidumbre global\" El rey Felipe VI se ha referido este jueves, durante la clausura del XXII Congreso de Directivos CEDE que se ha celebrado en Granada.",
+              "image 27",
+              "256K2",
+              "image 28",
+              "24 Agosto, 10:22 PM4",
+              "24 Agosto, 10:22 PM5",
+              "Marihuana-Pulianas-01-746x419 3",
+              "image 29",
+              "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana La Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo.",
+              "Rectangle 8",
+              "Popular2",
+              "image 30",
+              "300K",
+              "image 31",
+              "10 Diciembre, 21:30 PM",
+              "24 Agosto, 10:22 PM6",
+              "Marihuana-Pulianas-01-746x419 4",
+              "image 38",
+              "Muere un aficionado tras sufrir un paro cardíaco durante el partido entre Granada y Athletic, que ha sido suspendido. El espectador, de unos 70 años, fue atendido tras convulsionar, pero no pudo hacerse nada por salvar su vida."
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Rectangle 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "861.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "430.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "71.0"
+              }
+            },
+            "vector-content": "rectangle_5.svg"
+          },
+          {
+            "id": "image 23",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "355.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "131.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              }
+            },
+            "image-content": "image_23.png",
+            "scale": "cover"
+          },
+          {
+            "id": "10:30",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "23.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "65.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "23.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "10:30",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "22.0",
+            "line-height": "1.0850000381469727",
+            "typeface": "JejuGothic"
+          },
+          {
+            "id": "Manzano’s Newspaper",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "101.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "58.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "260.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Manzano’s Newspaper",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.0850000381469727",
+            "typeface": "JejuGothic"
+          },
+          {
+            "id": "image 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "330.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "360.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "13.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "image-content": "image_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "386.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "10.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "26.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "26.0"
+              }
+            },
+            "image-content": "image_3.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "51.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "image-content": "image_4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Popular",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "23.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "206.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.2"
+            },
+            "text-content": "Popular",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 12",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "48.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "229.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              }
+            },
+            "image-content": "image_12.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Mundo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "97.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "206.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Mundo",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Politica",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "206.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Politica",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Empresas",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "237.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "206.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Empresas",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Tecnología",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "326.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "206.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Tecnología",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 17",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "876.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "image-content": "image_17.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 20",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "97.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "878.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "image-content": "image_20.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 21",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "184.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "851.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "63.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "63.0"
+              }
+            },
+            "image-content": "image_21.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 4",
+            "border-radius": "10.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "19.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "118.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "376.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "61.0"
+              }
+            },
+            "vector-content": "rectangle_4.svg"
+          },
+          {
+            "id": "Busca tu noticia favorita",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "137.0"
+              }
+            },
+            "color": {
+              "alpha": "0.5098039215686274",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Busca tu noticia favorita",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "18.0",
+            "line-height": "1.2102272245619032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "image 22",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "355.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "131.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              }
+            },
+            "image-content": "image_23.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 24",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "291.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "878.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "image-content": "image_23.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 25",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "374.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "876.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              }
+            },
+            "image-content": "image_25.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 6",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "267.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "380.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "vector-content": "rectangle_6.svg"
+          },
+          {
+            "id": "Mundo1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "314.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "380.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Mundo",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "8.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 19",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "296.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "image-content": "image_19.png",
+            "scale": "cover"
+          },
+          {
+            "id": "256K",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "256K",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 18",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "247.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "380.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              }
+            },
+            "image-content": "image_18.png",
+            "scale": "cover"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "180.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "56.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "283.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Marihuana-Pulianas-01-746x419 2",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "267.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "136.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "image-content": "marihuana_pulianas_01_746x419_2.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "image 26",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.888888359069824"
+              }
+            },
+            "image-content": "image_22.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "269.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "239.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana\n\n",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Rectangle 9",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "558.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "380.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "vector-content": "rectangle_9.svg"
+          },
+          {
+            "id": "Popular1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "312.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "671.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Popular",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "8.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 32",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "296.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "672.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "image-content": "image_19.png",
+            "scale": "cover"
+          },
+          {
+            "id": "256K1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "672.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "256K",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 33",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "247.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "671.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              }
+            },
+            "image-content": "image_18.png",
+            "scale": "cover"
+          },
+          {
+            "id": "11 Diciembre, 12:30 PM",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "180.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "672.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "11 Diciembre, 12:30 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "574.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Marihuana-Pulianas-01-746x419 5",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "558.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "136.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "image-content": "marihuana_pulianas_01_746x419_5.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 34",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "672.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.888888359069824"
+              }
+            },
+            "image-content": "image_22.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Muere un alpinista al caer desde 70 metros de altura en Granada. Un hombre de 52 años y vecino de Málaga ha muerto este domingo mientras practicaba alpinismo en la localidad granadina de Dílar.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "560.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "239.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Muere un alpinista al caer desde 70 metros de altura en Granada.\n\nUn hombre de 52 años y vecino de Málaga ha muerto este domingo mientras practicaba alpinismo en la localidad granadina de Dílar. ",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "66"
+                },
+                {
+                  "span-start": "66",
+                  "span-length": "129",
+                  "annotated-text-style": {
+                    "text-size": "10.0"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Rectangle 10",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "709.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "380.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "vector-content": "rectangle_10.svg"
+          },
+          {
+            "id": "Empresas1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "312.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "823.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "39.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Empresas",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "8.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 35",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "296.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "823.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "image-content": "image_19.png",
+            "scale": "cover"
+          },
+          {
+            "id": "1M",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "823.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "1M",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 36",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "247.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "822.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              }
+            },
+            "image-content": "image_18.png",
+            "scale": "cover"
+          },
+          {
+            "id": "26 Octubre, 16:23 PM",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "180.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "823.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "26 Octubre, 16:23 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "725.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Marihuana-Pulianas-01-746x419 6",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "709.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "136.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "image-content": "marihuana_pulianas_01_746x419_6.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 37",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "823.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.888888359069824"
+              }
+            },
+            "image-content": "image_22.png",
+            "scale": "cover"
+          },
+          {
+            "id": "El Rey destaca en Granada el papel clave del liderazgo empresarial en un escenario de \"incertidumbre global\" El rey Felipe VI se ha referido este jueves, durante la clausura del XXII Congreso de Directivos CEDE que se ha celebrado en Granada.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "711.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "239.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "El Rey destaca en Granada el papel clave del liderazgo empresarial en un escenario de \"incertidumbre global\"\n\nEl rey Felipe VI se ha referido este jueves, durante la clausura del XXII Congreso de Directivos CEDE que se ha celebrado en Granada.",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "110"
+                },
+                {
+                  "span-start": "110",
+                  "span-length": "133",
+                  "annotated-text-style": {
+                    "text-size": "10.0"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 27",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "296.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "image-content": "image_19.png",
+            "scale": "cover"
+          },
+          {
+            "id": "256K2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "38.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "256K",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 28",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "247.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "380.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              }
+            },
+            "image-content": "image_18.png",
+            "scale": "cover"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "180.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "56.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "283.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Marihuana-Pulianas-01-746x419 3",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "267.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "136.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "image-content": "marihuana_pulianas_01_746x419_2.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "image 29",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "381.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.888888359069824"
+              }
+            },
+            "image-content": "image_22.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana La Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "269.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "239.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana\n\nLa Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo.",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "83",
+                  "annotated-text-style": {
+                    "font-weight": "400.0",
+                    "typeface": "Quicksand",
+                    "color": {}
+                  }
+                },
+                {
+                  "span-start": "83",
+                  "span-length": "1"
+                },
+                {
+                  "span-start": "84",
+                  "span-length": "76",
+                  "annotated-text-style": {
+                    "text-size": "10.0"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Rectangle 8",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "408.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "380.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "vector-content": "rectangle_8.svg"
+          },
+          {
+            "id": "Popular2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "312.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "521.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Popular",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "8.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 30",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "296.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "522.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              }
+            },
+            "image-content": "image_19.png",
+            "scale": "cover"
+          },
+          {
+            "id": "300K",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "262.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "522.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "300K",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 31",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "247.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "521.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.0"
+              }
+            },
+            "image-content": "image_18.png",
+            "scale": "cover"
+          },
+          {
+            "id": "10 Diciembre, 21:30 PM",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "180.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "522.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "64.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "9.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "10 Diciembre, 21:30 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "6.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "424.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Marihuana-Pulianas-01-746x419 4",
+            "border-radius": "10.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "26.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "408.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "136.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "127.0"
+              }
+            },
+            "image-content": "marihuana_pulianas_01_746x419_4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 38",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "522.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "8.888888359069824"
+              }
+            },
+            "image-content": "image_22.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Muere un aficionado tras sufrir un paro cardíaco durante el partido entre Granada y Athletic, que ha sido suspendido. El espectador, de unos 70 años, fue atendido tras convulsionar, pero no pudo hacerse nada por salvar su vida.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "167.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "410.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "239.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "annotated-text-content": {
+              "text": "Muere un aficionado tras sufrir un paro cardíaco durante el partido entre Granada y Athletic, que ha sido suspendido. \n\nEl espectador, de unos 70 años, fue atendido tras convulsionar, pero no pudo hacerse nada por salvar su vida.",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "120"
+                },
+                {
+                  "span-start": "120",
+                  "span-length": "109",
+                  "annotated-text-style": {
+                    "text-size": "10.0"
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "iPhone 14 & 15 Pro Max - 1/Default",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

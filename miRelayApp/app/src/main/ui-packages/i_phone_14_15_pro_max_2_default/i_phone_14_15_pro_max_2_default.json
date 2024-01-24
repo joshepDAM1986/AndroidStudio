@@ -1,0 +1,625 @@
+{
+  "name": "i_phone_14_15_pro_max_2_default",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "7bSyb3inREjI8ZKuqEE1PJ",
+    "node": "63:75",
+    "version": "5008734885",
+    "component-id": "0ce4bee3b95205f468b5cc0b18c4a24fe79c5c2b"
+  },
+  "default": "iPhone 14 & 15 Pro Max - 2/Default",
+  "documentation": "2024-01-22 v2",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 3"
+      },
+      {
+        "type": "image",
+        "id": "image 15"
+      },
+      {
+        "type": "image",
+        "id": "image 6"
+      },
+      {
+        "type": "text",
+        "id": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana"
+      },
+      {
+        "type": "text",
+        "id": "La Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo, ha detenido en Granada a cuatro personas e investigado a otras ocho por delitos de cultivo y elaboración de drogas y defraudación de fluido eléctrico. Los detenidos como los investigadas son de diferentes pueblos de la provincia de Granada. La Guardia Civil, después de realizar la incautación de las más de 1.600 plantas de cannabis sativa en la localidad de Fuente Vaqueros, tenía pendiente la detención."
+      },
+      {
+        "type": "image",
+        "id": "Marihuana-Pulianas-01-746x419 1"
+      },
+      {
+        "type": "image",
+        "id": "image 10"
+      },
+      {
+        "type": "image",
+        "id": "image 11"
+      },
+      {
+        "type": "image",
+        "id": "image 13"
+      },
+      {
+        "type": "image",
+        "id": "image 14"
+      },
+      {
+        "type": "image",
+        "id": "image 16"
+      },
+      {
+        "type": "text",
+        "id": "24 Agosto, 10:22 PM"
+      },
+      {
+        "type": "text",
+        "id": "256K"
+      },
+      {
+        "type": "text",
+        "id": "Mundo"
+      },
+      {
+        "type": "image",
+        "id": "image 18"
+      },
+      {
+        "type": "image",
+        "id": "image 19"
+      }
+    ],
+    "modes": {
+      "iPhone 14 & 15 Pro Max - 2/Default": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 3",
+              "image 15",
+              "image 6",
+              "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana",
+              "La Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo, ha detenido en Granada a cuatro personas e investigado a otras ocho por delitos de cultivo y elaboración de drogas y defraudación de fluido eléctrico. Los detenidos como los investigadas son de diferentes pueblos de la provincia de Granada. La Guardia Civil, después de realizar la incautación de las más de 1.600 plantas de cannabis sativa en la localidad de Fuente Vaqueros, tenía pendiente la detención.",
+              "Marihuana-Pulianas-01-746x419 1",
+              "image 10",
+              "image 11",
+              "image 13",
+              "image 14",
+              "image 16",
+              "24 Agosto, 10:22 PM",
+              "256K",
+              "Mundo",
+              "image 18",
+              "image 19"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Rectangle 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "35.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "179.0"
+              }
+            }
+          },
+          {
+            "id": "image 15",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "245.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "320.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "image-content": "image_15.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 6",
+            "border-radius": "18.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.49999910593027"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "16.499999493360463"
+              }
+            },
+            "relative-transform": [
+              [
+                "1.5265566588595902e-16",
+                "-0.9999999403953552",
+                "0.0"
+              ],
+              [
+                "0.9999999403953552",
+                "1.5265566588595902e-16",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.000001907348633"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "30.000001907348633"
+              }
+            },
+            "image-content": "image_6.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "363.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "385.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "90.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Cuatro detenidos y ocho investigados en Granada tras un nuevo golpe a la marihuana\n\n",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "22.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "La Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo, ha detenido en Granada a cuatro personas e investigado a otras ocho por delitos de cultivo y elaboración de drogas y defraudación de fluido eléctrico. Los detenidos como los investigadas son de diferentes pueblos de la provincia de Granada. La Guardia Civil, después de realizar la incautación de las más de 1.600 plantas de cannabis sativa en la localidad de Fuente Vaqueros, tenía pendiente la detención.",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.24705882352941178",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "4.0",
+              "offset-x": "0.0",
+              "offset-y": "4.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "21.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "453.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "385.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "467.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "La Guardia Civil, que continúa con la operación de alto impacto Nazarí Ordo, ha detenido en Granada a cuatro personas e investigado a otras ocho por delitos de cultivo y elaboración de drogas y defraudación de fluido eléctrico.\n\nLos detenidos como los investigadas son de diferentes pueblos de la provincia de Granada.\nLa Guardia Civil, después de realizar la incautación de las más de 1.600 plantas de cannabis sativa en la localidad de Fuente Vaqueros, tenía pendiente la detención.",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "22.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Marihuana-Pulianas-01-746x419 1",
+            "border-radius": "17.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "62.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "398.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "210.0"
+              }
+            },
+            "image-content": "marihuana_pulianas_01_746x419_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "image 10",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "29.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "320.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "image-content": "image_10.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 11",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "83.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "320.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "image-content": "image_11.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 13",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "137.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "320.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "image-content": "image_13.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 14",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "191.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "320.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              }
+            },
+            "image-content": "image_14.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 16",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "23.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "283.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "12.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.333333015441895"
+              }
+            },
+            "image-content": "image_16.png",
+            "scale": "cover"
+          },
+          {
+            "id": "24 Agosto, 10:22 PM",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "40.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "283.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "24 Agosto, 10:22 PM",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "256K",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "191.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "283.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "33.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "256K",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "Mundo",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "267.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "283.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Mundo",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.25",
+            "typeface": "Quicksand"
+          },
+          {
+            "id": "image 18",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "165.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "282.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              }
+            },
+            "image-content": "image_18.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 19",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "243.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "283.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "image-content": "image_19.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "iPhone 14 & 15 Pro Max - 2/Default",
+      "size": {
+        "width": 430.0,
+        "height": 932.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
