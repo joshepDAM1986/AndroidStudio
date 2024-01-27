@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showin="@layout/activity_main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#58DF1E"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mis lugares"
+            android:textColor="#F8ECEC"
+            android:textSize="40dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.133"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.871" />
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="?attr/colorPrimary"
+            android:minHeight="?attr/actionBarSize"
+            android:textAlignment="gravity"
+            android:theme="?attr/actionBarTheme"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:titleTextColor="@color/white"
+            tools:layout_editor_absoluteY="4dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="198dp"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="1dp"
+            android:gravity="center"
+            android:stretchColumns="*"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="20dp">
+                <Button
+                    android:id="@+id/button01"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/accion_mostrar"
+                    app:cornerRadius="0dp"
+                    android:layout_margin="@dimen/margen_botones"></Button>
+
+
+
+                <Button
+                    android:id="@+id/button03"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/accion_acerca_de"
+                    app:cornerRadius="0dp"
+                    android:layout_margin="@dimen/margen_botones"></Button>
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="20dp">
+                <Button
+                    android:id="@+id/button02"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/accion_preferencias"
+                    app:cornerRadius="0dp"
+                    android:layout_margin="@dimen/margen_botones">
+                </Button>
+                <Button
+                    android:id="@+id/button04"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/accion_salir"
+                    app:cornerRadius="0dp"
+                    android:layout_margin="@dimen/margen_botones"></Button>
+
+            </TableRow>
+
+        </TableLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

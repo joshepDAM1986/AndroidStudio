@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "miRelayApp"
 include(":app")
+ 

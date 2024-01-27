@@ -5,10 +5,11 @@
     "type": "figma",
     "file": "7bSyb3inREjI8ZKuqEE1PJ",
     "node": "63:2",
-    "version": "5006022149",
+    "version": "5033096629",
     "component-id": "e8bceb4998fb595f2396e1da1bea35fc84a1d9b2"
   },
   "default": "iPhone 14 & 15 Pro Max - 1/Default",
+  "documentation": "Manzano's Newspaper v1",
   "design": {
     "atoms": [
       {
