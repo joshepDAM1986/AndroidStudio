@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c145269c-c3ff-4d49-af04-0a65e7dcd07b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AndroidStudio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/miRelayApp/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/java/com/example/mirelayapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/miRelayApp/app/src/main/java/com/example/mirelayapp/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_1_default/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_1_default/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_1_default/i_phone_14_15_pro_max_1_default.json" beforeDir="false" afterPath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_1_default/i_phone_14_15_pro_max_1_default.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/FONTS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/VERSION.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/fonts/relay_quicksand_bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/fonts/relay_quicksand_light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/fonts/relay_quicksand_medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/fonts/relay_quicksand_regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/fonts/relay_quicksand_semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/i_phone_14_15_pro_max_2_default.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/i_phone_14_15_pro_max_2_default_preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/image_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/app/src/main/ui-packages/i_phone_14_15_pro_max_2_default/marihuana_pulianas_01_746x419_1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/miRelayApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miRelayApp/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/miRelayApp/settings.gradle.kts" afterDir="false" />
-    </list>
+    <list default="true" id="c145269c-c3ff-4d49-af04-0a65e7dcd07b" name="Changes" comment="2024/01/27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,13 +23,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/garci/OneDrive/Documentos/AndroidStudio/miRelayApp",
+    "last_opened_file_path": "C:/Users/garci/OneDrive/Documentos/AndroidStudio",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
@@ -77,6 +43,27 @@
       <option name="presentableId" value="Default" />
       <updated>1706204665662</updated>
     </task>
+    <task id="LOCAL-00001" summary="2024/01/27">
+      <option name="closed" value="true" />
+      <created>1706377413547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706377413547</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024/01/27">
+      <option name="closed" value="true" />
+      <created>1706377526691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706377526691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024/01/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/01/27" />
   </component>
 </project>
