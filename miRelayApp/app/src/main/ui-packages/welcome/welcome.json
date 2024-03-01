@@ -1,0 +1,1108 @@
+{
+  "name": "welcome",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "NHTNqmGSaocju7ORHUSRPI",
+    "node": "1602:16",
+    "version": "5052851227",
+    "component-id": "b42e165a26948958891fe08d47c7dd3a5e3b113e"
+  },
+  "default": "Welcome",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Order Success"
+      },
+      {
+        "type": "text",
+        "id": "SmartCart Compare App"
+      },
+      {
+        "type": "text",
+        "id": "By logging in or registering, you have agreed to the Terms and Conditions and Privacy Policy."
+      },
+      {
+        "type": "group",
+        "id": "Group 3168"
+      },
+      {
+        "type": "group",
+        "id": "Group 3180"
+      },
+      {
+        "type": "image",
+        "id": "carro"
+      },
+      {
+        "type": "vector",
+        "id": "Background"
+      },
+      {
+        "type": "group",
+        "id": "Success"
+      },
+      {
+        "type": "group",
+        "id": "Food Box"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "group",
+        "id": "Group"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      },
+      {
+        "type": "group",
+        "id": "Group1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector8"
+      },
+      {
+        "type": "vector",
+        "id": "Vector9"
+      },
+      {
+        "type": "vector",
+        "id": "Vector10"
+      },
+      {
+        "type": "vector",
+        "id": "Vector11"
+      },
+      {
+        "type": "image",
+        "id": "lidl 1"
+      },
+      {
+        "type": "image",
+        "id": "Carrefour 1"
+      },
+      {
+        "type": "image",
+        "id": "mercadona 1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 4"
+      },
+      {
+        "type": "text",
+        "id": "ENTER"
+      },
+      {
+        "type": "text",
+        "id": "EXIT"
+      }
+    ],
+    "modes": {
+      "Welcome": {
+        "rules": [
+          {
+            "id": "top_level",
+            "relative-transform": [
+              [
+                "0.9999997615814209",
+                "0.0007381074829027057",
+                "0.0"
+              ],
+              [
+                "-0.0007381074829027057",
+                "0.9999997615814209",
+                "0.0"
+              ]
+            ],
+            "is-structured": "false",
+            "children": [
+              "Order Success",
+              "SmartCart Compare App",
+              "By logging in or registering, you have agreed to the Terms and Conditions and Privacy Policy.",
+              "Group 3168",
+              "Group 3180"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Order Success",
+            "margin": {
+              "left": "50.099609375",
+              "top": "135.02899021109602",
+              "right": "38.911431355910736",
+              "bottom": "278.78919202877296"
+            },
+            "is-structured": "false",
+            "children": [
+              "carro",
+              "Background",
+              "Success",
+              "Food Box",
+              "Vector",
+              "Vector1",
+              "Vector2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "SmartCart Compare App",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "52.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "418.9999776297793"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "141.25865228537805"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "214.99999999999997",
+              "saturation": "0.4363636363636364",
+              "value": "0.21568627450980393"
+            },
+            "text-content": "SmartCart \nCompare\nApp",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.5",
+            "typeface": "Inter"
+          },
+          {
+            "id": "By logging in or registering, you have agreed to the Terms and Conditions and Privacy Policy.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "9.044707814697176"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-61.749948814394884"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.01763828564435"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.02777777777777768",
+              "value": "0.1411764705882353"
+            },
+            "annotated-text-content": {
+              "text": "By logging in or registering, you have agreed to\n the Terms and Conditions and Privacy Policy.",
+              "annotated-text-span-list": [
+                {
+                  "span-start": "0",
+                  "span-length": "50"
+                },
+                {
+                  "span-start": "50",
+                  "span-length": "24",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "144.36090225563908",
+                      "saturation": "0.726775956284153",
+                      "value": "0.7176470588235294"
+                    }
+                  }
+                },
+                {
+                  "span-start": "74",
+                  "span-length": "5"
+                },
+                {
+                  "span-start": "79",
+                  "span-length": "15",
+                  "annotated-text-style": {
+                    "color": {
+                      "alpha": "1.0",
+                      "hue": "144.36090225563908",
+                      "saturation": "0.726775956284153",
+                      "value": "0.7176470588235294"
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "10.0",
+            "line-height": "1.2102272033691406",
+            "typeface": "Inter",
+            "case": "title"
+          },
+          {
+            "id": "Group 3168",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "56.9912109375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "146.71870296456046"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "256.23984636790556"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "229.33871813277136"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "lidl 1",
+              "Carrefour 1",
+              "mercadona 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 3180",
+            "border-radius": "12.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "59.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "594.9999738895549"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "257.0361098987073"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "114.19036345539098"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Frame 1",
+              "Frame 4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "carro",
+            "border-radius": "19.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "112.65103079308756"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "277.907212202364"
+              }
+            },
+            "relative-transform": [
+              [
+                "0.9999997019767761",
+                "-0.0007381074246950448",
+                "0.0"
+              ],
+              [
+                "0.0007381074246950448",
+                "0.9999997019767761",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "173.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "120.0"
+              }
+            },
+            "image-content": "carro.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Background",
+            "margin": {
+              "top": "0.015350464210030168",
+              "right": "20.9349839307597",
+              "bottom": "186.87082031467799"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.1068115234375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.08904753117309383"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "background.svg"
+          },
+          {
+            "id": "Success",
+            "margin": {
+              "left": "188.393310546875",
+              "top": "18.2594511505755",
+              "right": "14.58592673199928",
+              "bottom": "296.9126446193404"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector3",
+              "Group"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Food Box",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "54.9208984375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "58.6552269290803"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "140.12916942252832"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "155.28275223270293"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector5",
+              "Vector6",
+              "Vector7",
+              "Group1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "7.367919921875",
+              "top": "33.307722840484416",
+              "right": "255.51443042066649",
+              "bottom": "341.76892307212256"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0103759765625"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.01038975450808266"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "256.64990234375",
+              "top": "127.19439362917865",
+              "right": "5.877786717053823",
+              "bottom": "247.52616345236856"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.00732421875"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0074164755794754456"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "3.9659423828125",
+              "top": "172.96376832603943",
+              "right": "263.10775450106803",
+              "bottom": "206.3027870488827"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0069580078125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.006962677156195696"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.030517578125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.030615790120123165"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Group",
+            "margin": {
+              "left": "18.19287109375",
+              "top": "26.628172927805053",
+              "right": "18.185584279606246",
+              "bottom": "23.261962446374127"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.01171875"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0030593173931947604"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "left": "0.034423828125",
+              "top": "46.744628917512614",
+              "right": "0.0000939966730584274"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.000013340196460376319"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": "0.013427734375",
+              "top": "18.257049560546875",
+              "right": "0.08008463474561722",
+              "bottom": "108.43499596307856"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.02099609375"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.01960563661532433"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          },
+          {
+            "id": "Vector7",
+            "margin": {
+              "left": "26.56787109375",
+              "top": "0.01956660802488841",
+              "right": "26.668974708443784",
+              "bottom": "136.94124772033047"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.003173828125"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.003060268824810919"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector7.svg"
+          },
+          {
+            "id": "Group1",
+            "margin": {
+              "left": "17.785888671875",
+              "top": "82.99155250910263",
+              "right": "89.30307396119724",
+              "bottom": "23.2048353868895"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector8",
+              "Vector9",
+              "Vector10",
+              "Vector11"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector8",
+            "margin": {
+              "top": "0.014915330527799142",
+              "right": "20.230719311332905",
+              "bottom": "31.421161789615326"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.006591796875"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.004714945422392702"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector8.svg"
+          },
+          {
+            "id": "Vector9",
+            "margin": {
+              "left": "4.617919921875",
+              "top": "13.196894621943784",
+              "right": "24.82345353731398",
+              "bottom": "0.0034148267295677215"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.000012265334532912675"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector9.svg"
+          },
+          {
+            "id": "Vector10",
+            "margin": {
+              "left": "24.82568359375",
+              "top": "13.181971526240659",
+              "right": "4.615689865438981",
+              "bottom": "0.01833792243269272"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.000012265334532912675"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector10.svg"
+          },
+          {
+            "id": "Vector11",
+            "margin": {
+              "left": "20.2080078125",
+              "top": "0.5418013168559241",
+              "right": "0.023515457484791114",
+              "bottom": "31.98349177589762"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.000732421875"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0008392130005177023"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector11.svg"
+          },
+          {
+            "id": "lidl 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "53.0708215458435"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.07378714639997952"
+              }
+            },
+            "relative-transform": [
+              [
+                "0.9999997019767761",
+                "-0.0007381074246950448",
+                "0.0"
+              ],
+              [
+                "0.0007381074246950448",
+                "0.9999997019767761",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "200.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "lidl_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Carrefour 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.03540933970361948"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "79.00993104657249"
+              }
+            },
+            "relative-transform": [
+              [
+                "0.9999997019767761",
+                "-0.0007381074246950448",
+                "0.0"
+              ],
+              [
+                "0.0007381074246950448",
+                "0.9999997019767761",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "133.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "96.0"
+              }
+            },
+            "image-content": "carrefour_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "mercadona 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "106.01544326083967"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "79.09442872482043"
+              }
+            },
+            "relative-transform": [
+              [
+                "0.9999997019767761",
+                "-0.0007381074246950448",
+                "0.0"
+              ],
+              [
+                "0.0007381074246950448",
+                "0.9999997019767761",
+                "0.0"
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "150.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "150.0"
+              }
+            },
+            "image-content": "mercadona_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Frame 1",
+            "padding": {
+              "left": "64.0",
+              "top": "16.0",
+              "right": "64.0",
+              "bottom": "16.0"
+            },
+            "border-radius": "12.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0007026977855275618"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "256.036106231506"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "ENTER"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "144.36090225563908",
+              "saturation": "0.726775956284153",
+              "value": "0.7176470588235294"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 4",
+            "padding": {
+              "left": "64.0",
+              "top": "16.0",
+              "right": "64.0",
+              "bottom": "16.0"
+            },
+            "border-radius": "12.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "1.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "65.00070269778553"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "256.036106231506"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "EXIT"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "144.36090225563908",
+              "saturation": "0.726775956284153",
+              "value": "0.7176470588235294"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "ENTER",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "243.01248989149462"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.179356065229513"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "ENTER",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "line-height": "1.2102272851126534",
+            "typeface": "Inter"
+          },
+          {
+            "id": "EXIT",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "243.01248989149462"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.179356065229513"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "EXIT",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "line-height": "1.2102272851126534",
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Welcome",
+      "size": {
+        "width": 375.0,
+        "height": 812.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,6 @@
+{
+    "target": "Welcome",
+    "package": "com.example.mirelayapp.welcome",
+    "generateImplementation": true,
+    "generatePreviews": true
+}

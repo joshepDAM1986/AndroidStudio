@@ -6,12 +6,14 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
-import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import com.example.mirelayapp.iphone1415promax1default.IPhone1415ProMax1Default
+import com.example.mirelayapp.account.Account
+import com.example.mirelayapp.enter.Enter
+import com.example.mirelayapp.loginfirst.LoginFirst
+import com.example.mirelayapp.registrationfirst.RegistrationFirst
 import com.example.mirelayapp.ui.theme.MiRelayAppTheme
+import com.example.mirelayapp.welcome.Welcome
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,9 +25,10 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                IPhone1415ProMax1Default()
+
                 }
             }
         }
     }
 }
+
